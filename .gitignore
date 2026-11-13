@@ -12,6 +12,7 @@ __pycache__/
 
 # Local ChromaDB / vector database storage
 chroma/
+chroma_db/
 *.sqlite3
 
 # macOS system files
