@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secret keys & environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local ChromaDB / vector database storage
+chroma/
+*.sqlite3
+
+# macOS system files
+.DS_Store
+
+.vscode
+.vscode/
